@@ -127,4 +127,9 @@ canvas {
 }
 ```
 
+# Credits
+```bash
+https://mediapipe.readthedocs.io/en/latest/getting_started/javascript.html
+```
+
 
