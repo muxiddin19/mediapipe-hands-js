@@ -2,6 +2,10 @@
 
 A project implementing hand tracking using MediaPipe in JavaScript. This project demonstrates how to detect and track hand movements directly in the browser.
 
+## Install package locally with npm install. 
+```bash
+npm install @mediapipe/hands
+```
 ## Clone the Repository
 
 On your computer, open a terminal or command prompt. Clone your new repository to your local machine using the following command:
