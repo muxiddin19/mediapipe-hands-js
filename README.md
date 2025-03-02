@@ -13,4 +13,9 @@ git clone https://github.com/muxiddin19/mediapipe-hands-js.git
 ```bash
 cd mediapipe-hands-js
 ```
-
+## Example Project Structure
+### Your project directory might look something like this:
+mediapipe-hands-js/
+├── index.html
+├── script.js
+└── style.css
