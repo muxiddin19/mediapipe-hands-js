@@ -15,7 +15,9 @@ cd mediapipe-hands-js
 ```
 ## Example Project Structure
 ### Your project directory might look something like this:
+```bash
 mediapipe-hands-js/
 ├── index.html
 ├── script.js
 └── style.css
+```
