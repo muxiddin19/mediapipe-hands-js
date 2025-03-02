@@ -8,10 +8,9 @@ On your computer, open a terminal or command prompt. Clone your new repository t
 
 ```bash
 git clone https://github.com/muxiddin19/mediapipe-hands-js.git
-
+```
+## Move to the folder
+```bash
 cd mediapipe-hands-js
-
-git add .
-
-git commit -m "Initial commit with MediaPipe Hands project"
+```
 
