@@ -134,6 +134,8 @@ canvas {
 # Credits
 ```bash
 https://mediapipe.readthedocs.io/en/latest/getting_started/javascript.html
+
+https://mediapipe.readthedocs.io/en/latest/solutions/hands.html
 ```
 
 
